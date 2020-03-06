@@ -1,0 +1,77 @@
+  .breadcrumb{
+      font-size: small;
+      padding-left: 6rem;
+  }
+  
+  .i3kCont{
+    background-color: white;
+    border-bottom: 30px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    margin-top: 20px;
+  }
+  .i3kCol{
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+  .row{
+      margin: 20px;
+  }
+  .i3kDesc{
+      margin: 20px;
+  }
+  .i3k-Cards{
+    height: 600px;
+    font-size: small;
+    padding-left: 10px;
+  }
+  .i3k-Cards > .card > img{
+    height: 10rem;
+    width: 10rem;
+  }
+  .i3k-Cards > .card{
+    margin-top: 60px;
+    margin: 10px;
+    line-height: 16px;
+  }
+.rate{
+    color:black;
+    cursor:pointer;
+}
+.rate:hover{
+    color:red;
+}
+.rate-item{
+    float:left;
+    cursor:pointer;
+    margin:0px 15px 0px 15px;
+}
+.rate-item:hover ~ .rate-item {
+    color: black;
+}
+#exampleFormControlTextarea1{
+    padding-top: 8px;
+}
+
+
+  body{
+      background-color: darkgrey;
+  }
+  footer.finale{
+      color: white;
+      background-color: teal;
+      height: 200px;
+      padding-left: 20px;
+      padding-top: 20px;
+      line-height: 30px;
+      font-size: small;
+  }
+
+  img{
+    height: 600px;
+    width: auto;
+    max-width: 900px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
