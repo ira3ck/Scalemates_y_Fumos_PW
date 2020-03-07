@@ -1,0 +1,14 @@
+footer.finale{
+    color: white;
+    background-color: teal;
+    height: 200px;
+    padding-left: 20px;
+    padding-top: 20px;
+    line-height: 30px;
+    font-size: small;
+}
+
+.carCont  > .carousel-item{
+    height: 50rem;
+
+}
